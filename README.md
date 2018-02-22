@@ -6,6 +6,9 @@ A full description of the data can be found below:
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 Files in this repo:
+
 codebook.md: File explaining the script that analyzes and summarizes the motion data.
+
 run_analysis.R: R script to load and summarize motion data
+
 output.txt: File containing mean and std data, tabled by subject/activity and variable.
