@@ -15,18 +15,33 @@ d.	Activities
 10.	Summarizing the data with activities and subjects on the x-axis, and variables on the y-axis.
 
 Variables:
-train_x: Data from dataset for train data x /n
+
+train_x: Data from dataset for train data x
+
 train_y: Data from dataset for train data y
+
 train_subject: Data from dataset for train data subject
+
 test_x: Data from dataset for test data x
+
 test_y: Data from dataset for test data y
+
 test_subject: Data from dataset for test data subject
+
 features: Data from dataset. Variable names.
+
 activities: Activity names.
+
 merged_x: Merged train and test data for x.
+
 merged_y: Merged train and test data for y.
+
 merged_subjects: Merged train and test data for subjects.
+
 only_std_mean: Merged train and test data only for mean or std variables.
+
 act_var_sub: Merged big dataframe combining activities, variables, and subjects
+
 melt_act_var_sub: Rearranged skinny dataframe (act_var_sub)
+
 mean_data_act_var_sub: Dataframe with mean and std values by tabled by activities/subject and variable. 
