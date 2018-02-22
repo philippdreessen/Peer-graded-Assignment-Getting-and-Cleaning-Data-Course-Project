@@ -15,7 +15,7 @@ d.	Activities
 10.	Summarizing the data with activities and subjects on the x-axis, and variables on the y-axis.
 
 Variables:
-train_x: Data from dataset for train data x
+train_x: Data from dataset for train data x /n
 train_y: Data from dataset for train data y
 train_subject: Data from dataset for train data subject
 test_x: Data from dataset for test data x
