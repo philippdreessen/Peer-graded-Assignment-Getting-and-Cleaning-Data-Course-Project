@@ -7,5 +7,5 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 
 Files in this repo:
 codebook.md: File explaining the script that analyzes and summarizes the motion data.
-project_DSS_GACD_W4.R: R script to load and summarize motion data
+run_analysis.R: R script to load and summarize motion data
 output.txt: File containing mean and std data, tabled by subject/activity and variable.
